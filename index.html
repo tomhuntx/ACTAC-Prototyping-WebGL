@@ -9,8 +9,7 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      UnityLoader.compatibilityCheck=function(e,t,r){t();};
-      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/CR-0.5.0-29.01.21-WebGL Uncompressed.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/ACTAC-Prototyping-WebGL.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
@@ -19,7 +18,7 @@
       <div class="footer">
         <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
-        <div class="title">Childcare Restaurant</div>
+        <div class="title">Mini Restaurant</div>
       </div>
     </div>
   </body>
