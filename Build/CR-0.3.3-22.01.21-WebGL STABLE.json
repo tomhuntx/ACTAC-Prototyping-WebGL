@@ -1,0 +1,16 @@
+{
+"companyName": "ACTAC",
+"productName": "Mini Restaurant",
+"productVersion": "0.1",
+"dataUrl": "CR-0.3.3-22.01.21-WebGL STABLE.data.unityweb",
+"wasmCodeUrl": "CR-0.3.3-22.01.21-WebGL STABLE.wasm.code.unityweb",
+"wasmFrameworkUrl": "CR-0.3.3-22.01.21-WebGL STABLE.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#BEDFEE",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
